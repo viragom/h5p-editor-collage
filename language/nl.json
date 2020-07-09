@@ -1,0 +1,17 @@
+{
+  "libraryStrings": {
+    "confirmReset": "Weet je zeker dat je de lay-out wilt wijzigen? Dit zal het voorbeeld opnieuw instellen.",
+    "sameAsSpacing": "Zelfde als spatiëring",
+    "noFrame": "Geen kader",
+    "uploadError": "Niet mogelijk om afbeelding te uploaden. Het bestand is mogelijk te groot.",
+    "zoomIn": "Inzoomen",
+    "zoomOut": "Uitzoomen",
+    "noMoreZoom": "Geen zoom meer",
+    "addImage": "Afbeelding toevoegen",
+    "changeImage": "Afbeelding wijzigen",
+    "imageSettings": "Afbeeldingsinstellingen",
+    "close": "Sluiten",
+    "imageAltLabel": "Alternatieve tekst",
+    "imageTitleLabel": "Hover tekst"
+  }
+}
