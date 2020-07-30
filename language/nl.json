@@ -1,0 +1,18 @@
+{
+  "libraryStrings": {
+    "confirmReset": "Weet je zeker dat je de layout wilt wijzigen? Dit stelt het voorbeeld opieuw in.",
+    "sameAsSpacing": "Zelfde als spatiëring",
+    "noFrame": "Geen kader",
+    "uploadError": "Niet mogelijk afbeelding te uploaden. Het bestand is waarschijnlijk te groot.",
+    "zoomIn": "Inzoomen",
+    "zoomOut": "Uitzoomen",
+    "noMoreZoom": "Geen verdere zoom",
+    "addImage": "Afbeelding toevoegen",
+    "changeImage": "Afbeelding wijzigen",
+    "imageSettings": "Afbeeldingsinstellingen",
+    "close": "Sluiten",
+    "imageAltLabel": "Alternatieve tekst",
+    "imageTitleLabel": "Hover tekst"
+  }
+}
+© 2020 GitHub, Inc.
